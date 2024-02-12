@@ -308,7 +308,8 @@ title.style.color = 'green';
 
 Пользуясь только возможностями DOM API сформируй страницу со следующим содержимым и дизайном:
 
-![](./assets/5.png)
+<img width="610" alt="5" src="https://github.com/baysarov-web/dom/assets/155926464/b2513001-40de-459b-acc7-e6086b069e91">
+
 
 Обрати внимание:
 - блоки выравнены по центру
